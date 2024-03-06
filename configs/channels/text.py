@@ -1,0 +1,13 @@
+from discord import Object
+
+__all__ = (
+    'REQUESTS',
+    'PASSPORTS',
+    'ENTER_RP',
+    'EXIT_RP'
+)
+
+REQUESTS = Object(1025419481557778513)
+PASSPORTS = Object(925123648891781150)
+ENTER_RP = Object(1022644834441363456)
+EXIT_RP = Object(1022645177283772446)
